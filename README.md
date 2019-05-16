@@ -8,3 +8,6 @@ https://stackoverflow.com/questions/44171912/referencing-an-outer-node-from-with
 
 [CSS] Guide  
 https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11
+
+[JavaScript] console.log  
+https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b
