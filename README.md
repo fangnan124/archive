@@ -11,3 +11,6 @@ https://medium.freecodecamp.org/the-css-handbook-a-handy-guide-to-css-for-develo
 
 [JavaScript] console.log  
 https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b
+
+[JavaScript] Tricks
+https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a
