@@ -1,6 +1,6 @@
 # archive
 
-[RAILS TEST] Overview of understanding rails test.  
+[Rails Test] Overview of understanding rails test.  
 https://thoughtbot.com/blog/how-we-test-rails-applications
 
 [Capybara] Referencing an outer node from within 'within' block.  
@@ -14,3 +14,6 @@ https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-c
 
 [JavaScript] Tricks  
 https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a
+
+[Rails] SESSIONS, COOKIES, AND AUTHENTICATION
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/sessions-cookies-and-authentication
